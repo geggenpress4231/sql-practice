@@ -21,4 +21,4 @@ ORDER BY
 
 
 
---cross join aliter more expensive computational
+--cross join aliter more expensive computationally
