@@ -21,3 +21,4 @@ ORDER BY
 
 
 
+--cross join aliter more expensive computational
